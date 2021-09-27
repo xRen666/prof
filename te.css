@@ -1,0 +1,35 @@
+body{
+    background-color: #7e7d7b;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.card{
+    background-color: rgb(42, 19, 168);
+}
+
+nav{
+    flex:center;
+}
+
+nav, nav a{
+    text-transform: uppercase;
+    color: white;
+}
+
+button{
+    color: white;
+}
+
+ul{
+    margin-left: -45px;
+}
+
+li{
+    list-style: none;
+    display: inline-block;
+}
+
+.hd{
+    font-family: sans-serif;
+    color: white;
+}
